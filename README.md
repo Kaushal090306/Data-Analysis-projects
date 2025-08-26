@@ -122,8 +122,3 @@ This journey has boosted my confidence to take on **more advanced AI/ML challeng
   - `Clinical_Trial_Survival_Analysis_for_Treatment_Efficiency.ipynb`  
 
 ---
-
-## 📬 Contact
-- **Name**: Kaushal Savaliya  
-- **Email**: kaushalsavaliya.ai@gmail.com  
-- **LinkedIn**: [linkedin.com/in/kaushal-savaliya](#)  
